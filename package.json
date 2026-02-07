@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float16-sqrt-half",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Square root of 1/2 as a half-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
@@ -36,8 +36,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@stdlib/math-base-special-sqrt": "^0.2.2",
-    "@stdlib/number-float64-base-to-float16": "github:stdlib-js/number-float64-base-to-float16#main",
+    "@stdlib/math-base-special-sqrt": "^0.2.3",
+    "@stdlib/number-float64-base-to-float16": "^0.1.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
